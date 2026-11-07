@@ -2,9 +2,9 @@ site:
   title: Fantasy Slab
   structure:
     - type: space
-      key: fantasy-slab
-      title: Fantasy Slab
-      path: docs
+      key: fantasy-slab-docs
+      title: Fantasy Slab Docs
+      path: /
       default: true
       content:
-        directory: ./docs
+        directory: .
