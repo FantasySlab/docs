@@ -1,14 +1,15 @@
-# Founders NFT Overview
+# Founders Tokens
 
-The **Founders NFT** is a limited collection of 100 premium NFTs that represent early ownership in the Fantasy Slab platform.
+The **Founders Tokens** represent early ownership in the Fantasy Slab platform. This is the primary founders instrument, combining ownership, revenue share, and on-chain tradability.
 
-## What is the Founders NFT?
+## What are Founders Tokens?
 
-Holders of the Founders NFT receive a share of platform revenue through weekly on-chain airdrops. This is the highest tier of access and influence within the Fantasy Slab ecosystem.
+Holders of Founders Tokens receive a share of platform revenue through weekly on-chain airdrops. Tokens are fully tradable on-chain (SPL token on Solana), allowing founders to buy, sell, or transfer their position without manual distribution.
 
 ## Key Benefits
 
 - **Weekly Revenue Share** — Automatic on-chain airdrops every Sunday
+- **On-Chain Trading** — Fully tradable SPL token on Solana
 - **Priority Access** — First allocation on exclusive slab drops
 - **Reserved League Spots** — Guaranteed access to 10-man leagues
 - **Governance Rights** — Voting power on platform decisions
@@ -16,13 +17,21 @@ Holders of the Founders NFT receive a share of platform revenue through weekly o
 
 ## Supply & Pricing
 
-- **Total Supply**: 100
-- **Price**: $10,000 USDC
+- **Total Supply**: 20,000
+- **Price per Token**: $80 USDC
+- **Total Raise**: $1,600,000
 - **Revenue Share**: 8% of gross platform revenue (distributed weekly)
 
-## Who Should Mint?
+## Token Allocation
 
-The Founders NFT is designed for early believers who want maximum exposure to the growth of Fantasy Slab through both financial upside and platform influence.
+- **Developer (Long-term holder)**: 60% (12,000 tokens)
+- **Liquidity Seeding**: 40% (8,000 tokens)
+
+The 40% allocation will be used to seed liquidity through Solana/USDC purchases.
+
+## Who Should Buy?
+
+Founders Tokens are designed for early believers who want maximum exposure to the growth of Fantasy Slab through both financial upside and platform influence, with the flexibility of on-chain trading.
 
 ---
 
