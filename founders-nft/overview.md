@@ -10,8 +10,6 @@ Holders of Founders Tokens receive a share of platform revenue through weekly on
 
 - **Weekly Revenue Share** — Automatic on-chain airdrops every Sunday
 - **On-Chain Trading** — Fully tradable SPL token on Solana
-- **Priority Access** — First allocation on exclusive slab drops
-- **Reserved League Spots** — Guaranteed access to 10-man leagues
 - **Governance Rights** — Voting power on platform decisions
 - **Future Access** — Early access to new products and features
 
