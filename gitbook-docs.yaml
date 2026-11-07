@@ -4,3 +4,4 @@ site:
 
 structure:
   readme: README.md
+  summary: SUMMARY.md
