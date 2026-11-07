@@ -1,6 +1,4 @@
-site:
-  title: Fantasy Slab
-  description: Documentation for Fantasy Slab
+root: ./
 
 structure:
   readme: README.md
