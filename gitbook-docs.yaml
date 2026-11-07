@@ -1,2 +1,3 @@
-# gitbook-docs.yaml
-root: .
+site:
+  title: Fantasy Slab
+  description: Documentation for Fantasy Slab
