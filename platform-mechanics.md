@@ -1,5 +1,7 @@
 # Platform Mechanics
 
+[Back to Documentation](README.md)
+
 This section covers how leagues and slab redemptions function on Fantasy Slab.
 
 ## League & Draft System
@@ -58,4 +60,4 @@ League roster state, trades, and redemptions are tracked on-chain. Winner calcul
 
 ---
 
-[Back to Documentation](README.md)
+[Back to Founders Tokens](founders-nft/tokenomics.md) | [Back to Documentation](README.md)
