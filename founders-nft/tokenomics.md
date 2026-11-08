@@ -67,6 +67,24 @@ Additional utilities are planned, including:
 - Enhanced governance mechanisms
 - Integration with physical slab redemption mechanics
 
+## Slab Redemption Flow
+
+League participants receive **Collector Crypt NFTs** as part of the league structure. These NFTs are pooled and distributed based on randomized draft position and signed draft transactions.
+
+#### Distribution
+- NFTs are allocated to league participants according to their draft picks.
+- Winners of weekly matchups receive additional prize NFTs representing physical items, which may include:
+  - Slabs
+  - Watches
+  - Gacha spins
+  - Other rewards
+
+#### In-League Trading & Redemption
+During league play, participants can trade their slab NFT off-league or burn it through immediate redemption on CollectorCrypt. Once a slab NFT is traded or burned, it becomes ineligible for further league trades. This effectively locks the player on the manager's team for the remainder of the league period.
+
+#### Tracking & Settlement
+League roster state, trades, and redemptions are tracked on-chain. Winner calculations at the end of the league duration use a hybrid model combining on-chain data with off-chain indexing for final settlement.
+
 ---
 
 [Back to Documentation](../README.md)
