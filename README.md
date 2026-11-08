@@ -14,9 +14,9 @@ The Founders NFT is a limited collection of 100 premium NFTs that grant holders 
 
 - [High-Level Architecture](./architecture/high-level.md)
 
-## Getting Started
+## Platform Mechanics
 
-Coming soon.
+- [Platform Mechanics](./platform-mechanics.md) — Leagues, drafts, winner calculation, and slab redemption flow.
 
 ---
 
