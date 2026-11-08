@@ -46,7 +46,7 @@ League participants receive **Collector Crypt NFTs** as part of the league struc
 
 ### Distribution
 - NFTs are allocated to league participants according to their draft picks.
-- Winners of weekly matchups receive additional prize NFTs representing physical items, which may include:
+- Winners of league matchups receive additional prize NFTs representing physical items, which may include:
   - Slabs
   - Watches
   - Gacha spins
@@ -60,4 +60,4 @@ League roster state, trades, and redemptions are tracked on-chain. Winner calcul
 
 ---
 
-[Back to Founders Tokens](founders-nft/tokenomics.md) | [Back to Documentation](README.md)
+[Back to Founders Tokens](founders-token/tokenomics.md) | [Back to Documentation](README.md)

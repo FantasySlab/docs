@@ -6,8 +6,8 @@ Welcome to the official documentation for Fantasy Slab — a next-generation fan
 
 Founders Tokens are a limited supply of 20,000 premium tokens that grant holders a share of platform revenue through weekly on-chain airdrops.
 
-- [Overview](./founders-nft/overview.md)
-- [Tokenomics](./founders-nft/tokenomics.md)
+- [Overview](./founders-token/overview.md)
+- [Tokenomics](./founders-token/tokenomics.md)
 
 ## Architecture
 

@@ -4,8 +4,8 @@
 
 ## Founders Tokens
 
-* [Overview](founders-nft/overview.md)
-* [Tokenomics](founders-nft/tokenomics.md)
+* [Overview](founders-token/overview.md)
+* [Tokenomics](founders-token/tokenomics.md)
 
 ## Platform Mechanics
 
