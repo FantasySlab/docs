@@ -46,6 +46,27 @@ Revenue is distributed proportionally based on token holdings at the snapshot. N
 
 The 40% allocation will be used to seed liquidity through Solana/USDC purchases. The developer intends to remain a long-term holder.
 
+## Token Utility & Economics
+
+Founders Tokens represent ownership in the Fantasy Slab platform and provide the following core utilities:
+
+#### Revenue Share
+Holders receive a proportional share of the revenue pool generated from weekly league NFT sales (see [Revenue Share Mechanics](./tokenomics.md#revenue-share-mechanics) for full details).
+
+#### On-Chain Ownership & Trading
+- Founders Tokens are implemented as a fully tradable SPL token on Solana.
+- Ownership is verifiable on-chain at any time.
+- Holders can buy, sell, or transfer their position freely on the open market (subject to the developer lockup below).
+
+#### Developer Alignment
+The developer initially holds **60%** of all Founders Tokens. This allocation is subject to a **minimum 2-year hold** before any tokens can be traded. This structure ensures long-term alignment with token holders.
+
+#### Future Utility
+Additional utilities are planned, including:
+- Priority allocation on future platform drops
+- Enhanced governance mechanisms
+- Integration with physical slab redemption mechanics
+
 ---
 
 [Back to Documentation](../README.md)
