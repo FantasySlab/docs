@@ -6,32 +6,38 @@
 - **Price per Token**: $80 USDC
 - **Total Raise**: $1,600,000
 
-## Revenue Share
+## Revenue Share Mechanics
 
-Founders collectively receive **8%** of gross platform revenue.
+Founders Tokens receive **100% of the 20% gross** taken from weekly league NFT sales.
 
-- Distributed **weekly** via on-chain airdrops
-- Airdrops occur every **Sunday at 00:00 UTC**
-- Revenue share is proportional to token holdings
+#### Revenue Flow
+- Weekly league NFT sales generate gross revenue.
+- **20%** of gross sales is allocated to the revenue share pool.
+- **100% of this pool** is distributed to Founders Token holders.
+- The developer initially holds **60%** of all Founders Tokens and will receive 60% of the revenue share pool through this position.
 
-## Revenue Sources
+#### Developer Lockup
+The developer's 60% allocation is subject to a **minimum 2-year hold** before any tokens can be traded on the open market.
 
-- League entry fees (primary)
-- Gacha sales
-- Future platform fees
+#### Net Revenue Definition
+Net revenue is calculated after deducting pool creation costs and league reward payouts from the allocated 20% gross.
 
-## Distribution
+#### Distribution Schedule
+- Distributions occur **every Sunday at 00:00 UTC**.
+- All distributions are executed on-chain via the decentralized protocols on Solana.
 
-- Revenue is calculated weekly based on league activity
-- Airdrops are pushed automatically to all token holders
-- No staking is required to receive distributions
+#### Eligibility
+To receive a distribution, holders must:
+- Hold Founders Tokens at the time of the distribution snapshot, and
+- Have maintained at least **77%** of their current balance throughout the previous period.
 
-## Example
+#### Transparency
+- Weekly revenue figures are published on-chain.
+- Revenue data and distribution history are also available in the Fantasy Slab web app.
+- All airdrops are fully verifiable on Solana.
 
-If the platform generates **$500,000** in revenue in a given week:
-
-- Total to Founders: **$40,000**
-- Per 1% of tokens: **$400**
+#### Distribution Method
+Revenue is distributed proportionally based on token holdings at the snapshot. No staking is required to receive distributions.
 
 ## Token Allocation
 
