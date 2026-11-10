@@ -1,10 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Fantasy Slab
   structure:
     - type: space
       key: fantasy-slab-docs
       title: Fantasy Slab Docs
-      path: /
+      path: undefined
       default: true
       content:
-        directory: .
+        directory: ./
