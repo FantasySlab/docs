@@ -10,6 +10,25 @@
 
 ---
 
+## Value Accrual Model (Hybrid)
+
+$SLAB uses a **hybrid value accrual model** with two mechanisms:
+
+### Primary Mechanism: Weekly Revenue Distribution
+- **20% of gross revenue** is distributed weekly to $SLAB holders.
+- Distributions occur **every Sunday at 00:00 UTC** via on-chain transfers.
+- All distributions are proportional to token holdings at the snapshot.
+- No staking is required to receive distributions.
+
+### Secondary / Optional Mechanism: Buybacks & Burns
+- Buybacks and permanent burns are used as a **defensive tool** when the market significantly overvalues $SLAB relative to actual revenue and fundamentals.
+- This mechanism helps protect long-term holders during periods of excessive speculation.
+- Buybacks are funded from treasury or excess platform revenue when appropriate.
+
+This hybrid approach gives holders **direct yield** while providing the team with a flexible tool to manage valuation.
+
+---
+
 ## Supply Overview
 
 | Metric                  | Amount          | % of Total |
@@ -26,11 +45,11 @@
 | Category              | %     | Tokens      | Status                  | Notes |
 |-----------------------|-------|-------------|-------------------------|-------|
 | **Seed / Private Raise** | 15% | 15,000,000 | 6–12 month vesting     | $10M raise at $0.667/token |
-| **Foundation / Treasury** | 35% | 35,000,000 | Unlocked               | Buybacks, burns, operations, future development |
+| **Foundation / Treasury** | 35% | 35,000,000 | Unlocked               | Operations, buybacks, reserves |
 | **Team / Founder**    | 4%    | 4,000,000   | 12-month cliff + linear | Core dev allocation (vested) |
-| **Community & Rewards** | 25% | 25,000,000 | Unlocked / streaming   | Fantasy league incentives, airdrops, Gacha rewards |
+| **Community & Rewards** | 25% | 25,000,000 | Unlocked / streaming   | Fantasy league incentives, airdrops |
 | **Advisors**          | 5%    | 5,000,000   | 12-month vesting       | Strategic advisors |
-| **Liquidity (DEX)**   | 10%   | 10,000,000  | Unlocked               | Raydium initial liquidity + market making |
+| **Liquidity (DEX)**   | 10%   | 10,000,000  | Unlocked               | Raydium initial liquidity |
 | **Burned / Reserve**  | 6%    | 6,000,000   | Permanently burned     | Initial burn + strategic reserve |
 
 ---
@@ -46,20 +65,11 @@ All vesting is handled via on-chain Streamflow contracts for full transparency.
 
 ---
 
-## Value Accrual & Deflationary Mechanics
-
-- Platform revenue from Fantasy Slab gacha packs, redemptions, and secondary market fees funds ongoing **buybacks** and **burns**.
-- A portion of LP fees and treasury activity is directed toward purchasing $SLAB on the open market.
-- Tokens acquired through buybacks are permanently burned, creating continuous deflationary pressure.
-- The token is backed by real slab inventory, redemption mechanics, and the growing Fantasy Slab ecosystem.
-
----
-
 ## Why $SLAB?
 
-- Short, memorable, and directly tied to the core product (graded slabs).
-- Strong branding synergy with Collector Crypt’s real-world collectibles model.
-- Clean economics designed for long-term alignment between the team, investors, and community.
+- Short, memorable ticker directly tied to the core product (graded slabs)
+- Strong branding synergy with Collector Crypt
+- **Hybrid economics** designed for both direct yield and long-term value protection
 
 ---
 

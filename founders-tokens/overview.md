@@ -4,15 +4,18 @@
 
 ## What is $SLAB?
 
-$SLAB is a fixed-supply SPL token on Solana designed for long-term alignment between the team, investors, and community. Unlike traditional revenue-share tokens, $SLAB accrues value through platform-driven **buybacks and permanent burns** funded by gacha sales, redemptions, and secondary market activity.
+$SLAB is a fixed-supply SPL token on Solana designed for long-term alignment between the team, investors, and community. It uses a **hybrid value accrual model**:
+
+- **Primary**: Weekly distribution of **20% of gross revenue** to $SLAB holders
+- **Secondary (Optional)**: Buybacks and burns when the token is significantly overvaluing the project
 
 ## Key Features
 
 - **Fixed Supply** — 100,000,000 tokens (no inflation)
-- **Deflationary Mechanics** — Continuous buybacks and burns from platform revenue
+- **Weekly Revenue Share** — 20% of gross revenue distributed every Sunday
+- **Deflationary Option** — Buybacks & burns available as a defensive tool
 - **Vested Founder Allocation** — 4% of supply locked with the core developer
-- **Community Rewards** — Large allocation for fantasy league incentives and airdrops
-- **Real Utility** — Backed by actual slab inventory and redemption flow
+- **Community Rewards** — Large allocation for fantasy league incentives
 
 ## Token Allocation
 
@@ -30,7 +33,7 @@ $SLAB is a fixed-supply SPL token on Solana designed for long-term alignment bet
 
 - Short, memorable ticker directly tied to the core product (graded slabs)
 - Strong branding synergy with Collector Crypt
-- Clean economics focused on sustainable value accrual rather than direct fee distribution
+- Hybrid economics combining direct yield with valuation management tools
 
 ---
 
