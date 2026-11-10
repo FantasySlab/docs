@@ -1,35 +1,36 @@
-# Founders Tokens
+# $SLAB Token
 
-The **Founders Tokens** represent early ownership in the Fantasy Slab platform. This is the primary founders instrument, combining ownership, revenue share, and on-chain tradability.
+**$SLAB** is the primary token of the Fantasy Slab ecosystem. It represents ownership and participation in a platform that tokenizes fantasy sports slabs with physical redemption mechanics, built on top of Collector Crypt infrastructure.
 
-## What are Founders Tokens?
+## What is $SLAB?
 
-Holders of Founders Tokens receive a share of platform revenue through weekly on-chain airdrops. Tokens are fully tradable on-chain (SPL token on Solana), allowing founders to buy, sell, or transfer their position without manual distribution.
+$SLAB is a fixed-supply SPL token on Solana designed for long-term alignment between the team, investors, and community. Unlike traditional revenue-share tokens, $SLAB accrues value through platform-driven **buybacks and permanent burns** funded by gacha sales, redemptions, and secondary market activity.
 
-## Key Benefits
+## Key Features
 
-- **Weekly Revenue Share** — Automatic on-chain airdrops every Sunday
-- **On-Chain Trading** — Fully tradable SPL token on Solana
-- **Governance Rights** — Voting power on platform decisions
-- **Future Access** — Early access to new products and features
-
-## Supply & Pricing
-
-- **Total Supply**: 20,000
-- **Price per Token**: $80 USDC
-- **Total Raise**: $1,600,000
-- **Revenue Share**: 8% of gross platform revenue (distributed weekly)
+- **Fixed Supply** — 100,000,000 tokens (no inflation)
+- **Deflationary Mechanics** — Continuous buybacks and burns from platform revenue
+- **Vested Founder Allocation** — 4% of supply locked with the core developer
+- **Community Rewards** — Large allocation for fantasy league incentives and airdrops
+- **Real Utility** — Backed by actual slab inventory and redemption flow
 
 ## Token Allocation
 
-- **Developer (Long-term holder)**: 60% (12,000 tokens)
-- **Liquidity Seeding**: 40% (8,000 tokens)
+| Category              | %     | Tokens     | Status             |
+|-----------------------|-------|------------|--------------------|
+| Seed / Private Raise  | 15%   | 15,000,000 | Vested             |
+| Foundation / Treasury | 35%   | 35,000,000 | Unlocked           |
+| Team / Founder        | 4%    | 4,000,000  | 12-month cliff     |
+| Community & Rewards   | 25%   | 25,000,000 | Unlocked           |
+| Advisors              | 5%    | 5,000,000  | Vested             |
+| Liquidity (DEX)       | 10%   | 10,000,000 | Unlocked           |
+| Burned / Reserve      | 6%    | 6,000,000  | Permanently burned |
 
-The 40% allocation will be used to seed liquidity through Solana/USDC purchases.
+## Why $SLAB?
 
-## Who Should Buy?
-
-Founders Tokens are designed for early believers who want maximum exposure to the growth of Fantasy Slab through both financial upside and platform influence, with the flexibility of on-chain trading.
+- Short, memorable ticker directly tied to the core product (graded slabs)
+- Strong branding synergy with Collector Crypt
+- Clean economics focused on sustainable value accrual rather than direct fee distribution
 
 ---
 
