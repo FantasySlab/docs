@@ -4,12 +4,12 @@
 
 ## Founders Tokens
 
-* [Overview](founders-token/overview.md)
-* [Tokenomics](founders-token/tokenomics.md)
+* [Overview](founders-tokens/overview.md)
+* [Tokenomics](founders-tokens/tokenomics.md)
 
 ## Platform Mechanics
 
-* [Platform Mechanics](platform-mechanics.md)
+* [Platform Mechanics](platform-mechanics/platform-mechanics.md)
 
 ## Architecture
 
