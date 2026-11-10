@@ -1,72 +1,66 @@
-# Founders Tokenomics
+# $SLAB Tokenomics
 
-## Supply
+**Fantasy Slab** — Tokenizing fantasy sports slabs with physical redemption, powered by Collector Crypt infrastructure.
 
-- **Total Supply**: 20,000
-- **Price per Token**: $80 USDC
-- **Total Raise**: $1,600,000
-
-## Revenue Share Mechanics
-
-Founders Tokens receive **100% of the 20% gross** taken from weekly league NFT sales.
-
-#### Revenue Flow
-- Weekly league NFT sales generate gross revenue.
-- **20%** of gross sales is allocated to the revenue share pool.
-- **100% of this pool** is distributed to Founders Token holders.
-- The developer initially holds **60%** of all Founders Tokens and will receive 60% of the revenue share pool through this position.
-
-#### Developer Lockup
-The developer's 60% allocation is subject to a **minimum 2-year hold** before any tokens can be traded on the open market.
-
-#### Net Revenue Definition
-Net revenue is calculated after deducting pool creation costs and league reward payouts from the allocated 20% gross.
-
-#### Distribution Schedule
-- Distributions occur **every Sunday at 00:00 UTC**.
-- All distributions are executed on-chain via the decentralized protocols on Solana.
-
-#### Eligibility
-To receive a distribution, holders must:
-- Hold Founders Tokens at the time of the distribution snapshot, and
-- Have maintained at least **77%** of their current balance throughout the previous period.
-
-#### Transparency
-- Weekly revenue figures are published on-chain.
-- Revenue data and distribution history are also available in the Fantasy Slab web app.
-- All airdrops are fully verifiable on Solana.
-
-#### Distribution Method
-Revenue is distributed proportionally based on token holdings at the snapshot. No staking is required to receive distributions.
-
-## Token Allocation
-
-- **Developer Allocation**: 60% (12,000 tokens) — long-term holder
-- **Liquidity / Early Sale**: 40% (8,000 tokens)
-
-The 40% allocation will be used to seed liquidity through Solana/USDC purchases. The developer intends to remain a long-term holder.
-
-## Token Utility & Economics
-
-Founders Tokens represent ownership in the Fantasy Slab platform and provide the following core utilities:
-
-#### Revenue Share
-Holders receive a proportional share of the revenue pool generated from weekly league NFT sales (see [Revenue Share Mechanics](./tokenomics.md#revenue-share-mechanics) for full details).
-
-#### On-Chain Ownership & Trading
-- Founders Tokens are implemented as a fully tradable SPL token on Solana.
-- Ownership is verifiable on-chain at any time.
-- Holders can buy, sell, or transfer their position freely on the open market (subject to the developer lockup below).
-
-#### Developer Alignment
-The developer initially holds **60%** of all Founders Tokens. This allocation is subject to a **minimum 2-year hold** before any tokens can be traded. This structure ensures long-term alignment with token holders.
-
-#### Future Utility
-Additional utilities are planned, including:
-- Priority allocation on future platform drops
-- Enhanced governance mechanisms
-- Integration with physical slab redemption mechanics
+**Token**: $SLAB (SPL on Solana)  
+**Total Supply**: 100,000,000 (fixed, no minting)  
+**Initial Seed Price**: $0.667 per token  
+**Target Raise**: $10,000,000  
+**Fully Diluted Valuation (FDV)**: ~$66.7M
 
 ---
 
-[Back to Documentation](../README.md)
+## Supply Overview
+
+| Metric                  | Amount          | % of Total |
+|-------------------------|-----------------|------------|
+| **Total Supply**        | 100,000,000     | 100%       |
+| **Circulating at TGE**  | ~25,000,000     | 25%        |
+| **Locked / Vesting**    | ~60,000,000     | 60%        |
+| **Treasury + Liquidity**| ~15,000,000     | 15%        |
+
+---
+
+## Allocation Breakdown
+
+| Category              | %     | Tokens      | Status                  | Notes |
+|-----------------------|-------|-------------|-------------------------|-------|
+| **Seed / Private Raise** | 15% | 15,000,000 | 6–12 month vesting     | $10M raise at $0.667/token |
+| **Foundation / Treasury** | 35% | 35,000,000 | Unlocked               | Buybacks, burns, operations, future development |
+| **Team / Founder**    | 4%    | 4,000,000   | 12-month cliff + linear | Core dev allocation (vested) |
+| **Community & Rewards** | 25% | 25,000,000 | Unlocked / streaming   | Fantasy league incentives, airdrops, Gacha rewards |
+| **Advisors**          | 5%    | 5,000,000   | 12-month vesting       | Strategic advisors |
+| **Liquidity (DEX)**   | 10%   | 10,000,000  | Unlocked               | Raydium initial liquidity + market making |
+| **Burned / Reserve**  | 6%    | 6,000,000   | Permanently burned     | Initial burn + strategic reserve |
+
+---
+
+## Vesting Schedule
+
+- **Team / Founder (4M tokens)**: 12-month cliff, followed by linear monthly unlocks over 12–18 months.
+- **Seed Investors**: 6–12 month vesting with monthly unlocks after TGE.
+- **Advisors**: 12-month vesting with monthly unlocks.
+- **"It unlocks when it unlocks, not before."**
+
+All vesting is handled via on-chain Streamflow contracts for full transparency.
+
+---
+
+## Value Accrual & Deflationary Mechanics
+
+- Platform revenue from Fantasy Slab gacha packs, redemptions, and secondary market fees funds ongoing **buybacks** and **burns**.
+- A portion of LP fees and treasury activity is directed toward purchasing $SLAB on the open market.
+- Tokens acquired through buybacks are permanently burned, creating continuous deflationary pressure.
+- The token is backed by real slab inventory, redemption mechanics, and the growing Fantasy Slab ecosystem.
+
+---
+
+## Why $SLAB?
+
+- Short, memorable, and directly tied to the core product (graded slabs).
+- Strong branding synergy with Collector Crypt’s real-world collectibles model.
+- Clean economics designed for long-term alignment between the team, investors, and community.
+
+---
+
+*Tokenomics are subject to minor adjustments based on final raise structure and investor feedback. Latest figures will always be reflected on this page.*
